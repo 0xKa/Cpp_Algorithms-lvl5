@@ -1,0 +1,4 @@
+﻿  Project4_MyDynamicArray.cpp
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project4_MyDynamicArray\Project4_MyDynamicArray\Project4_MyDynamicArray.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project4_MyDynamicArray\Project4_MyDynamicArray\clsDynamicArray.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project4_MyDynamicArray.vcxproj -> F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project4_MyDynamicArray\x64\Debug\Project4_MyDynamicArray.exe
