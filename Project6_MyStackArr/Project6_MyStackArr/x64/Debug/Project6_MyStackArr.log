@@ -1,0 +1,6 @@
+﻿  Project6_MyStackArr.cpp
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project6_MyStackArr\Project6_MyStackArr\Project6_MyStackArr.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project6_MyStackArr\Project6_MyStackArr\clsMyStackArr.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project6_MyStackArr\Project6_MyStackArr\clsMyQueueArr.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project6_MyStackArr\Project6_MyStackArr\clsDynamicArray.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project6_MyStackArr.vcxproj -> F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project6_MyStackArr\x64\Debug\Project6_MyStackArr.exe
