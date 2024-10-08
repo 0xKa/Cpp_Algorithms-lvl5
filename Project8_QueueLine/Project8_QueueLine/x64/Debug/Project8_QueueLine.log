@@ -1,0 +1,12 @@
+﻿  Project8_QueueLine.cpp
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project8_QueueLine\Project8_QueueLine\Project8_QueueLine.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project8_QueueLine\Project8_QueueLine\clsQueueLine.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Libraries\clsDate.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Libraries\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Libraries\clsString.h(42,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Libraries\clsString.h(150,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Libraries\clsString.h(277,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Libraries\clsString.h(312,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Libraries\clsString.h(358,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project8_QueueLine\Project8_QueueLine\clsQueueLine.h(90,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Project8_QueueLine.vcxproj -> F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project8_QueueLine\x64\Debug\Project8_QueueLine.exe
