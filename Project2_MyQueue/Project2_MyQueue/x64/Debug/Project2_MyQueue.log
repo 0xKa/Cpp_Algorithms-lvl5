@@ -1,0 +1,4 @@
+﻿  Project2_MyQueue.cpp
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project2_MyQueue\Project2_MyQueue\Project2_MyQueue.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project2_MyQueue\Project2_MyQueue\clsMyQueue.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project2_MyQueue.vcxproj -> F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project2_MyQueue\x64\Debug\Project2_MyQueue.exe
