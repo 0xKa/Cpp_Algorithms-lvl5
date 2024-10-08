@@ -1,0 +1,5 @@
+﻿  Project5_MyQueueArr.cpp
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project5_MyQueueArr\Project5_MyQueueArr\Project5_MyQueueArr.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project5_MyQueueArr\Project5_MyQueueArr\clsMyQueueArr.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project5_MyQueueArr\Project5_MyQueueArr\clsDynamicArray.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project5_MyQueueArr.vcxproj -> F:\ProgrammingAdvices\Course 13 - Algorithms-lvl5\Project5_MyQueueArr\x64\Debug\Project5_MyQueueArr.exe
